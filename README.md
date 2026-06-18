@@ -25,7 +25,7 @@ Coletânea de postagens e guias práticos sobre desenvolvimento com Inteligênci
 ## 🗂️ Temas
 
 ### 🤖 Agentes e IA
-- [Claude Code /loop](./01-claude-loop.md)
+- [Claude Code Comandos de Chat](./01-comandos-de-chat.md)
 - [Claude Code CLI — Comandos Completos](./10-claude-code-cli-comandos.md)
 - [Testes Automatizados com IA](./02-testes-automatizados.md)
 - [Skill de Planejamento Orientada a Contratos](./06-skill-planejamento.md)
