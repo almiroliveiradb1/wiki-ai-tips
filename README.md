@@ -20,6 +20,7 @@ Coletânea de postagens e guias práticos sobre desenvolvimento com Inteligênci
 | 9 | [Design Tokens — Resumo Completo](./09-design-tokens-resumo.md) | Versão complementar do guia de Design Tokens |
 | 10 | [Claude Code CLI — Comandos Completos](./10-claude-code-cli-comandos.md) | Guia completo de todos os comandos da Claude Code CLI com exemplos práticos |
 | 11 | [Prompts de IA para PRD, SPEC, ADR e Implementação](./11-prompts.md) | Prompts otimizados prontos para usar na criação de artefatos de produto e engenharia com IA |
+| 12 | [Claude Projects](./12-claude-projects.md) | Como usar Claude Projects para organizar trabalho recorrente com contexto e base de conhecimento persistente |
 
 ---
 
@@ -31,6 +32,7 @@ Coletânea de postagens e guias práticos sobre desenvolvimento com Inteligênci
 - [Testes Automatizados com IA](./02-testes-automatizados.md)
 - [Skill de Planejamento Orientada a Contratos](./06-skill-planejamento.md)
 - [Prompts de IA para PRD, SPEC, ADR e Implementação](./11-prompts.md)
+- [Claude Projects](./12-claude-projects.md)
 
 ### 🛠️ Ferramentas e Integrações
 - [Figma Local com Claude Code (MCP)](./08-figma-claude-mcp.md)
