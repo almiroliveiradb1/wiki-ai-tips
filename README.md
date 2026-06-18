@@ -19,6 +19,7 @@ Coletânea de postagens e guias práticos sobre desenvolvimento com Inteligênci
 | 8 | [Figma Local com Claude Code (MCP)](./08-figma-claude-mcp.md) | Guia completo de instalação e uso do Figma via MCP no Claude Code |
 | 9 | [Design Tokens — Resumo Completo](./09-design-tokens-resumo.md) | Versão complementar do guia de Design Tokens |
 | 10 | [Claude Code CLI — Comandos Completos](./10-claude-code-cli-comandos.md) | Guia completo de todos os comandos da Claude Code CLI com exemplos práticos |
+| 11 | [Prompts de IA para PRD, SPEC, ADR e Implementação](./11-prompts.md) | Prompts otimizados prontos para usar na criação de artefatos de produto e engenharia com IA |
 
 ---
 
@@ -29,6 +30,7 @@ Coletânea de postagens e guias práticos sobre desenvolvimento com Inteligênci
 - [Claude Code CLI — Comandos Completos](./10-claude-code-cli-comandos.md)
 - [Testes Automatizados com IA](./02-testes-automatizados.md)
 - [Skill de Planejamento Orientada a Contratos](./06-skill-planejamento.md)
+- [Prompts de IA para PRD, SPEC, ADR e Implementação](./11-prompts.md)
 
 ### 🛠️ Ferramentas e Integrações
 - [Figma Local com Claude Code (MCP)](./08-figma-claude-mcp.md)
