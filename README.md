@@ -9,7 +9,7 @@ Coletânea de postagens e guias práticos sobre desenvolvimento com Inteligênci
 | # | Arquivo | Descrição |
 |---|---------|-----------|
 | 0 | [Links e Recursos](./00-links-e-recursos.md) | Coleção de links úteis: YouTube, GitHub e ferramentas |
-| 1 | [Claude Code Comandos de Chat](./01-comandoos-de-chat.md) | Comandos de chat integrados ao Claude Code que permitem automação e interação rápida com tarefas comuns|
+| 1 | [Claude Code Comandos de Chat](./01-comandos-de-chat.md) | Comandos de chat integrados ao Claude Code que permitem automação e interação rápida com tarefas comuns|
 | 2 | [Testes Automatizados com IA](./02-testes-automatizados.md) | Guia completo: infraestrutura, estratégia e prompts para geração de testes com IA |
 | 3 | [Estrutura Multi-Arquivo com IA](./03-estrutura-multi-arquivo.md) | Vantagens de estrutura multi-arquivo vs arquivo único para projetos com IA |
 | 4 | [Tri-Track Agile](./04-tri-track-agile.md) | As três trilhas: Estratégia, Descoberta e Entrega |
