@@ -22,6 +22,7 @@ Coletânea de postagens e guias práticos sobre desenvolvimento com Inteligênci
 | 11 | [Prompts de IA para PRD, SPEC, ADR e Implementação](./11-prompts.md) | Prompts otimizados prontos para usar na criação de artefatos de produto e engenharia com IA |
 | 12 | [Claude Projects](./12-claude-projects.md) | Como usar Claude Projects para organizar trabalho recorrente com contexto e base de conhecimento persistente |
 | 13 | [Headroom — Compressão de Contexto para Agentes IA](./HEADROOM.md) | Camada open-source que comprime entre 60–95% dos tokens de entrada antes de chegarem ao LLM, reduzindo custo sem perder precisão |
+| 14 | [Harness Engineering](./14-harness.md) | Disciplina de criar limites, ferramentas e condições de execução para que agentes de IA operem em ambiente controlado (CLAUDE.md, STATE.md, feedforward e feedback) |
 
 ---
 
@@ -44,6 +45,7 @@ Coletânea de postagens e guias práticos sobre desenvolvimento com Inteligênci
 ### 📐 Arquitetura e Metodologia
 - [Estrutura Multi-Arquivo com IA](./03-estrutura-multi-arquivo.md)
 - [Tri-Track Agile](./04-tri-track-agile.md)
+- [Harness Engineering](./14-harness.md)
 
 ### 💻 Projetos e Exercícios
 - [Exercício Cenário 2 — DGS AI First](./05-cenario2-dgs-ai-first.md)
