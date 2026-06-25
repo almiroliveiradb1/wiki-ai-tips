@@ -23,6 +23,7 @@ Coletânea de postagens e guias práticos sobre desenvolvimento com Inteligênci
 | 12 | [Claude Projects](./12-claude-projects.md) | Como usar Claude Projects para organizar trabalho recorrente com contexto e base de conhecimento persistente |
 | 13 | [Headroom — Compressão de Contexto para Agentes IA](./HEADROOM.md) | Camada open-source que comprime entre 60–95% dos tokens de entrada antes de chegarem ao LLM, reduzindo custo sem perder precisão |
 | 14 | [Harness Engineering](./14-harness.md) | Disciplina de criar limites, ferramentas e condições de execução para que agentes de IA operem em ambiente controlado (CLAUDE.md, STATE.md, feedforward e feedback) |
+| 15 | [Google Cloud CLI — Instalação e Configuração](./google-cloud/01-instalacao.md) | Guia completo para instalar, inicializar e autenticar a Google Cloud CLI em Ubuntu, WSL e servidores headless |
 
 ---
 
@@ -40,6 +41,7 @@ Coletânea de postagens e guias práticos sobre desenvolvimento com Inteligênci
 - [Figma Local com Claude Code (MCP)](./08-figma-claude-mcp.md)
 - [Design Tokens](./07-design-tokens.md)
 - [Headroom — Compressão de Contexto para Agentes IA](./HEADROOM.md)
+- [Google Cloud CLI — Instalação e Configuração](./google-cloud/01-instalacao.md)
 - [Links e Recursos](./00-links-e-recursos.md)
 
 ### 📐 Arquitetura e Metodologia
