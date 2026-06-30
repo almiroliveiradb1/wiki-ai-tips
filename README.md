@@ -26,12 +26,14 @@ Coletânea de postagens e guias práticos sobre desenvolvimento com Inteligênci
 | 15 | [Google Cloud SDK Suite — O que é e para que serve](./google-cloud/02-SDK-Suite.md) | Visão geral do Google Cloud SDK: ferramentas `gcloud`, `gsutil`, `bq` e emuladores locais para desenvolver e gerenciar recursos na GCP |
 | 16 | [Google Cloud CLI — Instalação e Configuração](./google-cloud/01-instalacao.md) | Guia completo para instalar, inicializar e autenticar a Google Cloud CLI em Ubuntu, WSL e servidores headless |
 | 17 | [Google Cloud — Comandos gcloud](./google-cloud/03-gcloud-comandos.md) | Referência de comandos `gcloud` mais comuns e úteis para gerenciar recursos na GCP |
+| 18 | [Desenvolvimento de Agentes com IA](./Desenvolvimento-de-Agentes-com-IA/) | Guia prático sobre arquitetura de agentes e subagentes, padrões de delegação e orquestração com IA |
 
 ---
 
 ## 🗂️ Temas
 
 ### 🤖 Agentes e IA
+- [Desenvolvimento de Agentes com IA](./Desenvolvimento-de-Agentes-com-IA/) — Arquitetura, padrões e orquestração de agentes e subagentes
 - [Claude Code Comandos de Chat](./01-comandos-de-chat.md)
 - [Claude Code CLI — Comandos Completos](./10-claude-code-cli-comandos.md)
 - [Testes Automatizados com IA](./02-testes-automatizados.md)
